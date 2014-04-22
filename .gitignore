@@ -1,0 +1,13 @@
+sensitive-data-never-commit.R
+
+.Rhistory
+
+.RData
+
+.Rproj.user/
+
+*.Rproj
+
+data/
+
+Weatherdata/
